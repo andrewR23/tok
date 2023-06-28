@@ -1,3 +1,12 @@
+/*
+base_nodes : line 8
+social_clusters: line 785
+guild_groups: line 5971
+town_Groups :line 7578
+rowsDataset: line 9319 (a sample query)
+*/
+
+
 {
   "base_nodes": [
     {
